@@ -18,9 +18,16 @@ Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My g
 ### 💬Freelancer (2023.1 - Now)
 
 ## 🔭Skill🔭
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c626f6f7473747261702c7461696c77696e642c6669676d612c6769742c6769746875622c776f72647072657373](https://github.com/lovesakura729/lovesakura729/assets/126082098/05819833-3bb9-45cb-9b3e-f072eb65e2a6)
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c6d6f6e676f64622c657870726573732c72656163742c6e6f64656a732c747970657363726970742c6e6578742c6d7973716c](https://github.com/lovesakura729/lovesakura729/assets/126082098/89e9b899-478d-4111-b4c5-d9f8d2eb5995)
-
+- ReactJS
+- VueJS
+- ExpressJS
+- RestfulAPI
+- WordPress
+- Django
+- ReactNative
+- Android
+- Laravel
+- WordPress
 ## 📫Contact📫
 - ✨website: https://yoshimurahiroki-4372f.web.app
 - ✨email:   teikonami@gmail.com
