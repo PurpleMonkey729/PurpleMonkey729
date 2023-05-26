@@ -11,7 +11,7 @@ Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My g
 - ⚡Degree: Bachelor of Software Engineering (2018.4.12)
 
 ## 👯Experience👯
-### 💬Gartner Company (Stockholm Sweden, 2018.9 - 2022.12)
+### 💬Euvic Company (Stockholm Sweden, 2018.9 - 2022.12)
 - 🔭Analytics And Business Intelligence Platforms (Role: System Engineer)
 - 🔭Visual Collaboration Applications (Role: Database Manager)
 - 🔭Endpoint Protection Platforms (Role: BackEnd Developer)
