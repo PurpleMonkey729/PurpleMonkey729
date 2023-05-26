@@ -7,17 +7,17 @@ Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My g
 ## 🌱Education🌱
 ### Stockholm University (Stockholm Sweden, 2009.9 - 2013.8)
 - ⚡ Major: Computer Engineering
-### Stockholm University Graduate Course (Stockholm Sweden, 2013.9 - 2016.8)
+### Stockholm University Graduate Course (Stockholm Sweden, 2013.9 - 2015.8)
 - ⚡ Degree: Bachelor of Software Engineering (2016.4.12)
 
 ## 👯Experience👯
-### 💬Euvic Company (Stockholm Sweden, 2016.9 - 2022.12)
-#### 🔭 Business Analytics Management System based on Artifficial Intelligence (2018.12 - 2019.4)
+### 💬Euvic Company (Stockholm Sweden, 2015.9 - 2022.12)
+#### 🔭 Business Analytics Management System based on Artifficial Intelligence (2017.12 - 2018.4)
 - Used: Python, TypeScript, MongoDB...
 - Role: System Engineer
 - Issue: Project Complete Predict Date Error
 - Solve: DT Probabiliy Algorithm Brench Weight Value Control
-#### 🔭 Educational Collaboration Development Environment (2020.7 - 2020.12)
+#### 🔭 Educational Collaboration Development Environment (2019.10 - 2020.3)
 - Used: Java, C#, MySQL...
 - Role: Database Manager
 - Issue: Examination Result Security
