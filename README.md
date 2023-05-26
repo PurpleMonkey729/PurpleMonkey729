@@ -6,16 +6,33 @@ Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My g
 
 ## 🌱Education🌱
 ### Stockholm University (Stockholm Sweden, 2011.9 - 2015.8)
-- ⚡Major: Computer Engineering
+- ⚡ Major: Computer Engineering
 ### Stockholm University Graduate Course (Stockholm Sweden, 2015.9 - 2018.8)
-- ⚡Degree: Bachelor of Software Engineering (2018.4.12)
+- ⚡ Degree: Bachelor of Software Engineering (2018.4.12)
 
 ## 👯Experience👯
 ### 💬Euvic Company (Stockholm Sweden, 2018.9 - 2022.12)
-- 🔭Analytics And Business Intelligence Platforms (Role: System Engineer)
-- 🔭Visual Collaboration Applications (Role: Database Manager)
-- 🔭Endpoint Protection Platforms (Role: BackEnd Developer)
+#### 🔭 Business Analytics Management System based on Artifficial Intelligence (2019.12 - 2020.4)
+- Used: Python, TypeScript, MongoDB...
+- Role: System Engineer
+- Issue: Project Complete Predict Date Error
+- Solve: DT Probabiliy Algorithm Brench Weight Value Control
+#### 🔭 Educational Collaboration Development Environment (2021.7 - 2021.12)
+- Used: Java, C#, MySQL...
+- Role: Database Manager
+- Issue: Examination Result Security
+- Solve: RBAC & ABAC Mechanism Use
+#### 🔭 Automatice Health Consultation Support Tool (2022.4 - 2022.7)
+- Used: Python, JavaScirpt, MySQL...
+- Role: BackEnd Developer
+- Issue: Consultation History Analytics and Synthesis
+- Solve: Support Vector Machine Non-linear Analytics
 ### 💬Freelancer (2023.1 - Now)
+- Study_01: Project Management
+- Study_02: Algorithm Theory
+- Study_03: ......
+- Study_04: ...
+- Study_05: What I don't know, but definitely exists.
 
 ## 🔭Skill🔭
 ![nodejs](https://github.com/lovesakura729/lovesakura729/assets/126082098/b6daaafe-4ab8-45dd-b22b-0badc62c380a)
@@ -31,7 +48,7 @@ Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My g
 ![mysql](https://github.com/lovesakura729/lovesakura729/assets/126082098/c5195faf-4b3c-4eeb-9561-29b9a2d073c5)
 
 ## 📫Contact📫
-- ✨website: https://yoshimurahiroki-4372f.web.app
-- ✨email:   teikonami@gmail.com
-- ✨skype:   live:.cid.f5fe11456bd4acc3
-- ✨discord: lovesakura729#7070
+- ✨ website: https://yoshimurahiroki-4372f.web.app
+- ✨ email:   teikonami@gmail.com
+- ✨ skype:   live:.cid.f5fe11456bd4acc3
+- ✨ discord: lovesakura729#7070
