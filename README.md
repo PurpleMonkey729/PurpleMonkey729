@@ -11,7 +11,7 @@ Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My g
 - ⚡ Degree: Bachelor of Software Engineering (2016.4.12)
 
 ## 👯Experience👯
-### 💬Euvic Company (Stockholm Sweden, 2016.9 - 2020.12)
+### 💬Euvic Company (Stockholm Sweden, 2016.9 - 2022.12)
 #### 🔭 Business Analytics Management System based on Artifficial Intelligence (2018.12 - 2019.4)
 - Used: Python, TypeScript, MongoDB...
 - Role: System Engineer
