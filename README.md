@@ -2,7 +2,7 @@
 ![Prunus-Accolade-sept-2020](https://github.com/lovesakura729/lovesakura729/assets/126082098/c58d43e3-643f-44b4-bdca-2e8a3046f1c5)
 
 ## 😄About Me😄
-Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My greatest joy is when I complete a sophisticated and powerful web project. During the 8 years of web development, I received a lot of help and helped others a lot. The state of the art technology is important, but passion and cooperation are more important, I think.
+Hello! This is Yoshimura Hiroki. I am a "DEV FAN", not a "senior engineer". My greatest joy is when I complete a sophisticated and powerful web project. The state of the art technology is important, but passion and cooperation are more important, I think.
 
 ## 🌱Education🌱
 ### Stockholm University (Stockholm Sweden, 2009.9 - 2013.8)
