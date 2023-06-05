@@ -1,4 +1,4 @@
-# 👋Yoshimura Hiroki👋
+# Yoshimura Hiroki
 ![Prunus-Accolade-sept-2020](https://github.com/lovesakura729/lovesakura729/assets/126082098/c58d43e3-643f-44b4-bdca-2e8a3046f1c5)
 
 ## 😄About Me😄
