@@ -1,1 +1,1 @@
-![Slide1](https://github.com/lovesakura729/lovesakura729/assets/126082098/29c25f98-2d5c-4f08-bbc0-1a6fb630cb44)
+![Presentation1](https://github.com/lovesakura729/lovesakura729/assets/126082098/ea55df4e-7079-44b9-b005-52e4d3688428)
