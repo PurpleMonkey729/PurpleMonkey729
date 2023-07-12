@@ -3,7 +3,7 @@
 ### The reason is that I respect the dev spirit of all developers in GitHub.
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PurpleMonkey729&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
-    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=PurpleMonkey729&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories&bg_color=222222" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=PurpleMonkey729&title=MultiLanguage,Commits,Stars,Followers,Repositories,Issues" />
 </p>
 <p align="center">
 <img align="center" width="31%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PurpleMonkey729&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
