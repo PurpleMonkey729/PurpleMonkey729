@@ -6,8 +6,8 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=PurpleMonkey729&title=MultiLanguage,Commits,Stars,Followers,Repositories,Issues" />
 </p>
 <p align="center">
-<img align="center" width="31%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PurpleMonkey729&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
-<img align="center" height="68%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PurpleMonkey729&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="wannacfuture's Github Stats" />
+<img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PurpleMonkey729&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
+<img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PurpleMonkey729&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="wannacfuture's Github Stats" />
 </p>
 </p>
 <div align="center" style="font-size: 25px;font-weight: 900;">
