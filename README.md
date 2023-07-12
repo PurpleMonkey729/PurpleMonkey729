@@ -1,4 +1,4 @@
-# Hiroki Yoshimura</h1>
+# Hiroki Yoshimura
 ## Why I am following to people?
 ### The reason is that I respect the dev spirit of all developers in GitHub.
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PurpleMonkey729&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
@@ -11,13 +11,12 @@
 </p>
 </p>
 <div align="center" style="font-size: 25px;font-weight: 900;">
-	<p style="font-size: 25px;font-weight: 900;">- My Contributions -</p>
   <a href="https://github.com/starlitnightsky">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PurpleMonkey729&theme=dracula" />
   </a>
 </div>
 
 <p align="center">
-	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/PurpleMonkey729/count.svg" alt="PurpleMonkey729's Github visitor Counts" />
+	My Profile Visitor Count: <img align="center" src="https://profile-counter.glitch.me/PurpleMonkey729/count.svg" alt="PurpleMonkey729's Github visitor Counts" />
 </p>
 </section>
